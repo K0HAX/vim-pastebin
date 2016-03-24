@@ -1,0 +1,1 @@
+Use ":Pastebin <language>" to paste your current buffer to https://paste.k0hax.com/
