@@ -1,0 +1,9 @@
+Vim Pastebin
+============
+This plugin was designed to be used with kwpastebin.
+
+https://github.com/K0HAX/kwpastebin
+
+TODO
+====
+Currently, all pastes are hardcoded to my personal pastebin. This should be changed to a setting.
